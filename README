@@ -1,0 +1,245 @@
+
+
+                               J O E L   L I N G
+
+         Polyglot  software  engineer  ;  cross-cultural  communicator
+                Linux Foundation Certified System Administrator
+
+
+* EXPERIENCE
+
+  + Open-Xchange                                            Jan 2022 ~
+
+    - Solution Engineer, Professional Services
+    - Technical Project Manager
+
+      As a member of multinational project teams delivering email and DNS at
+      scale on public and private clouds, I facilitate the flow of information
+      and resources at the crossroads where people, processes, and practices
+      from all walks come into contact. Bridging gaps in cultures, timezones,
+      and organisational boundaries, I connect people with different priorities
+      and concerns, navigate multiple contexts in parallel, move decisions
+      against shifting backdrops, and ensure promises are delivered.
+
+      The most valuable strength I bring to the table in this position is an
+      ability to quickly appreciate the gist of any conversation, regardless of
+      the level of technical detail at which it is presented, in either English
+      or Japanese. In my engagements I make sure that every point of view has
+      been thoroughly understood and appropriately communicated to the relevant
+      stakeholders, and see to it that a practicable consensus is built.
+
+
+  + Infostellar                                             May 2021 ~ Dec 2021
+
+    - Senior Software Engineer, Product Development
+
+      At Infostellar I was in charge of the design and delivery of a driver
+      deployed on the edge of the network, i.e. at Google Cloud's points of
+      presence nearest to a number of sites operated by Viasat, to integrate
+      their global network of ground antennas with Infostellar's platform
+      brokering on-demand access to satellite communications. Today, the
+      software continues to serve a constellation of space agencies and firms
+      downloading streams of satellite telemetry over Infostellar's platform.
+
+      To succeed in this project, I had to understand open and proprietary
+      communication protocols and message formats down to the binary level,
+      visualise data pipelines as a collection of concurrent event loops, and
+      implement each of those independently-scalable components in Go. I also
+      had to devise automated tests that ensure the modules would work together
+      as intended, without access to data and interface endpoints in production.
+
+      I went the extra mile in this project and authored a performant Go module
+      that unlocks the syntactic power of Go struct tags, to provide a suitable
+      layer of abstraction between low-level bit manipulation and domain-
+      specific message format definitions. By limiting the degree of complexity
+      one would need to manage when working with binary formats, development of
+      the driver was significantly accelerated, and tight deadlines were met.
+
+      The module is available on GitHub at https://github.com/encodingx/binary.
+
+
+      Relevant Recommendations
+      ------------------------
+      Steve Montgomery, then Chief Technical Officer of Infostellar:
+      "Joel was an integral member of our development team during his time at
+      Infostellar. Joel has all the elements of being a great engineer, and I
+      think he also exhibits leadership skills that will serve him well as he
+      advances in his career. I'm very confident that Joel will be successful
+      and will be an asset to any company that works with him, and I hope that
+      I have opportunities in the future to work with Joel again."
+
+      Valters Meirens, then Tech Lead at Infostellar:
+      "Joel knows exactly when and how to introduce new information and
+      insights. Many situations have nuances that can be overlooked when
+      working in fast and dynamic environments, however Joel never misses them.
+      Superb technical skills combined with a passion for learning better
+      solutions at every opportunity."
+
+
+  + Chowa Giken Corporation                                 Aug 2020 ~ May 2021
+
+    - Software Engineer (Senior Associate)
+
+      At Chowa Giken I worked alongside data scientists developing solutions
+      for dynamic pricing and sentiment analysis powered by machine learning. I
+      was relied on to translate the output of their research into commercial
+      APIs licensed to business customers, and helped pioneer the research-
+      centric company's venture into profitable product development.
+
+      Analysing Jupyter notebooks in conversation with scientists charged with
+      enhancing the accuracy of proprietary machine learning models, I was
+      responsible for developing containerised microservices in Python and Go
+      that addressed issues in performance, test coverage, code readability and
+      reusability, input validation, and error handling. I also automated build
+      processes and enabled short iterations characteristic of agile workflows.
+
+      Here I was exposed to PyTorch and Tensorflow, as well as ideas in MLOps.
+
+
+  + Hokkaido University                                     Jan 2021 ~ Mar 2021
+
+    - Research Assistant,
+      Graduate School of Information Science and Tecnology
+
+      In this part-time assignment I was tasked to read papers on attention
+      models emerging around the works of Vaswani et al (as applied by Camgoz
+      et al), and explain why these models excel in sequence modelling tasks,
+      outperforming traditional sequence-to-sequence models. Diving into the
+      mechanisms by which attention models preserve contextual information, I
+      outlined high-level concepts embodied in low-level vector operations.
+
+
+  + Indetail                                                Nov 2019 ~ Jul 2020
+
+    - Software Engineer
+
+      In this junior role I accumulated hands-on hours and picked up many
+      fundamentals and best practices relevant to the design, development, and
+      deployment of full-stack web applications as lightweight cloud services.
+
+
+  + The Quick Brown Fox                                     Jun 2019 ~ Oct 2019
+
+    - Full-Stack Developer
+
+      This one-man consultancy I ran between graduating university and starting
+      my first job in Japan marked my first experience of all the stages in a
+      software development life cycle. Awarded a project by a firm of
+      management consultants, I proposed and successfully delivered a solution
+      tailored to the customer's requirements, and billed them for my services.
+
+
+  + Singapore Management University                         Aug 2017 ~ Nov 2018
+
+    - Research and Teaching Assistant,
+      School of Accountancy
+
+      During my undergraduate studies at the university, I worked a part-time
+      job providing consultation and technical assistance in Python, R, and SQL
+      to faculty members and graduate students of accounting data analytics.
+
+
+  + KPMG                                                    Dec 2017 ~ Feb 2018
+
+    - Management Intern, Forensic Technology
+
+      As an intern I was tasked with implementing machine learning algorithms
+      from scientific papers to help fraud investigators isolate anomalous
+      financial transactions. I also ported legacy software to newer platforms.
+
+
+  + Deloitte                                                May 2017 ~ Jul 2017
+
+    - Intern, Audit Analytics
+
+      During this internship I performed data extraction, transformation, and
+      loading (ETL), computer-aided audit techniques, exploratory data
+      analysis, data visualisation, and development of in-house software tools.
+
+
+  + Atlas Sound & Vision                                    Jan 2017 ~ Mar 2017
+
+    - Student Consultant,
+      SMU-X Accounting Analytics Practicum
+
+      In this project I led a team of undergraduate students tasked with
+      analysing accounting data of a retailer and help increase the accuracy of
+      their financial forecasts. We ended up delivering a proof-of-concept web
+      application that takes inputs from frontline employees, runs Monte Carlo
+      simulations given parameters learned from historical data, and presents
+      to management a dashboard showing forecasted monthly cash receipts.
+
+
+  + Singapore Civil Defence Force                           Sep 2013 ~ Aug 2015
+
+    - Fire and Rescue Specialist,
+      Senior Command Training Branch
+
+      While serving my country as a firefighter I was given an opportunity to
+      prototype software in Python that helps officers on the site of large-
+      scale firefighting and rescue operations to track the amount of air
+      remaining in the breathing apparatus of men deployed and estimate in real
+      time the safe working duration until a team must exit the incident site.
+
+
+      Relevant Recommendation
+      -----------------------
+      Tiffany Neo, then Senior Trainer at the Senior Command Training Branch:
+      "I had the pleasure of working with Joel when he was serving his National
+      Service in the Singapore Civil Defence Force. He has an excellent work
+      ethic, produces work on time and is meticulous. He is also proactive in
+      suggesting improvements that can be made to processes and projects."
+
+
+  + Agency for Science, Technology and Research             Apr 2011 ~ Nov 2011
+
+    - Research Assistant, Data Storage Insitute
+
+      While in junior college I travelled to the Data Storage Institute every
+      week to carry out experiment procedures on microscopic spintronic devices
+      and collect data for analysis under the supervision of a scientist.
+
+
+* HOBBIES & INTERESTS
+
+  + Learning the Rust programming language
+
+    - https://github.com/joel-ling/rust-discard
+
+      Recently I toyed with a crude implementation of a Discard server as
+      described in RFC 863, to satisfy a personal curiosity for understanding
+      how a server might handle multiple concurrent connections over the
+      Transmission Control Protocol, using only the Rust Standard Library.
+
+
+* EDUCATION
+
+  + Singapore Management University                         Aug 2015 ~ May 2019
+
+    - Bachelor of Accountancy Majoring in Analytics
+    - Graduated Summa Cum Laude with a grade of 3.86/4.00
+
+      During my undergraduate studies I acquired an analytical perspective of
+      the world that integrates a broad range of concepts in computer science,
+      economics, finance, information systems, law, management, and statistics.
+
+
+  + University of Canterbury                                Feb 2018 ~ Jun 2018
+
+    - Certificate of Proficiency Arts (Undergraduate)
+    - Grade: 7.8/9.0
+
+      In Christchurch I explored concepts in applied statistics and computing,
+      entrepreneurship, Japanese culture, and socio-cultural anthropology as an
+      international student participating in an exchange programme.
+
+
+* CERTIFICATIONS & LICENSES
+
+  + Japanese-Language Proficiency Test Level N1 (JLPT N1)              Jan 2022
+
+  + Information Security Management Examination                        Aug 2021
+
+  + Linux Foundation Certified System Administrator (LFCS)             May 2021
+
+  + Class 1 Driver's License (Ordinary and Heavy Special Vehicles)     Dec 2020
